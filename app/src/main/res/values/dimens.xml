@@ -1,0 +1,8 @@
+<resources>
+    <dimen name="hundred">100dp</dimen>
+    <dimen name="zero">0dp</dimen>
+    <dimen name="sixteen">16dp</dimen>
+
+
+
+</resources>

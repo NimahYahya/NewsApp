@@ -1,0 +1,34 @@
+<?xml version="1.0" encoding="utf-8"?>
+<android.support.v7.widget.CardView xmlns:android="http://schemas.android.com/apk/res/android"
+    xmlns:app="http://schemas.android.com/apk/res-auto"
+    style="@style/cardStyle"
+    app:cardCornerRadius="20dp">
+
+    <LinearLayout style="@style/linear1">
+
+        <TextView
+            android:id="@+id/section"
+            style="@style/sectionStyle" />
+
+        <LinearLayout style="@style/linear2">
+
+            <TextView
+                android:id="@+id/date"
+                style="@style/dateStyle" />
+
+
+            <TextView
+                android:id="@+id/title"
+                style="@style/titleStyle" />
+
+            <TextView
+                android:id="@+id/author"
+                style="@style/authorStyle" />
+
+
+        </LinearLayout>
+    </LinearLayout>
+</android.support.v7.widget.CardView>
+
+
+
